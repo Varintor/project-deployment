@@ -1,0 +1,642 @@
+{
+  "news": [
+    {
+      "id": 100001,
+      "title": "U.S. military bolsters National Guard deployment in Washington amid unrest",
+      "summary": "Authorities mobilize National Guard troops in Washington, D.C. following intelligence warnings of planned mass demonstrations.",
+      "content": [
+        "The Department of Defense ordered additional National Guard units to secure key locations in the capital ahead of potential protests.",
+        "Officials cited credible threats and emphasized coordination with local law enforcement to ensure safety.",
+        "Lawmakers and security analysts warn tension remains high in Washington, particularly near government buildings."
+      ],
+      "sources": [
+        { "label": "Reuters", "url": "https://www.reuters.com/world/us/us-military-preparing-national-guard-activation-washington-dc-officials-say-2025-08-11/" }
+      ],
+      "status": "not_fake",
+      "reporter": "Reuters",
+      "createdAt": "2025-08-11T01:16:00Z",
+      "imageUrl": "https://www.defensenews.com/resizer/v2/M6FCSIRFFJBUFB7DEEBDRGDJEU.jpg?auth=c0d7b3209407ea4d57dd7122ec023c0c31a13e716e7fec4eec8931a6e872dbfe&width=1197&height=709",
+      "comments": [
+        { "id": "100001-c1", "author": "Dee", "text": "Source matches briefing notes.", "createdAt": "2025-08-11T01:25:00Z", "imageUrl": "", "likes": 2 }
+      ]
+    },
+    {
+      "id": 100002,
+      "title": "North Korea issues threat over joint U.S.-South Korea drills",
+      "summary": "Pyongyang condemns joint military exercises between U.S. and South Korea, warning of severe repercussions.",
+      "content": [
+        "North Korea’s state-run media called the imminent joint drills 'a deliberate provocation' that could spark regional conflict.",
+        "The statement accused U.S. and South Korean forces of undermining past agreements and destabilizing the peninsula.",
+        "Diplomatic sources worry the rhetoric may derail recent attempts at dialogue and escalation prevention."
+      ],
+      "sources": [
+        { "label": "Reuters", "url": "https://www.reuters.com/world/asia-pacific/north-korea-warns-reprisal-against-south-korea-us-drills-despite-signs-tensions-2025-08-10/" }
+      ],
+      "status": "not_fake",
+      "reporter": "Reuters",
+      "createdAt": "2025-08-11T02:48:00Z",
+      "imageUrl": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/sites/default/files/20180721_USP501.jpg",
+      "comments": [
+        { "id": "100002-c1", "author": "Eak", "text": "Context aligns with prior drills.", "createdAt": "2025-08-11T03:00:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    },
+    {
+      "id": 100003,
+      "title": "WHO declares Kenya free of sleeping sickness as a public health issue",
+      "summary": "Kenya achieves milestone in eliminating sleeping sickness, WHO confirms success of long-term health campaign.",
+      "content": [
+        "The World Health Organization praised Kenya’s success in eliminating human African trypanosomiasis as a public health problem.",
+        "Officials credited mass screening, vector control, and community outreach over the last two decades.",
+        "WHO urges neighboring countries to adopt similar strategies toward disease eradication."
+      ],
+      "sources": [
+        { "label": "WHO", "url": "https://www.who.int/news/item/08-08-2025-kenya-achieves-elimination-of-human-african-trypanosomiasis-or-sleeping-sickness" }
+      ],
+      "status": "not_fake",
+      "reporter": "WHO",
+      "createdAt": "2025-08-08T00:00:00Z",
+      "imageUrl": "https://i.ytimg.com/vi/BbdvDxRmU1A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCPqRgzqW0Q8U8tvNWpny7U0HnGrQ",
+      "comments": [
+        { "id": "100003-c1", "author": "Hana", "text": "Great public health milestone.", "createdAt": "2025-08-08T01:10:00Z", "imageUrl": "", "likes": 3 }
+      ]
+    },
+    {
+      "id": 100004,
+      "title": "Asian markets rise as Nikkei futures approach record highs",
+      "summary": "Markets in Asia rally, propelled by optimism around Japan’s recovery and strong corporate earnings.",
+      "content": [
+        "Asian shares gained Monday, with Japan’s Nikkei futures near record levels on back of improving economic data.",
+        "Experts pointed to strong global risk sentiment and stabilizing exchange rates supporting the rally.",
+        "Analysts remain cautiously optimistic amid mixed signals from inflation and supply-chain concerns."
+      ],
+      "sources": [
+        { "label": "Reuters", "url": "https://www.reuters.com/world/china/global-markets-wrapup-2-2025-08-11/" }
+      ],
+      "status": "not_fake",
+      "reporter": "Reuters",
+      "createdAt": "2025-08-11T03:09:00Z",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-123248950,imgsize-908691,width-400,resizemode-4/123248950.jpg",
+      "comments": [
+        { "id": "100004-c1", "author": "Cara", "text": "Charts reflect the move.", "createdAt": "2025-08-11T03:20:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    },
+    {
+      "id": 100005,
+      "title": "Israeli PM defends expanded Gaza offensive, demands Hamas release hostages",
+      "summary": "Prime Minister Netanyahu justifies offensive operations in Gaza and calls on Hamas to free remaining captives.",
+      "content": [
+        "Israeli Prime Minister Netanyahu announced an expansion of military operations in Gaza, aimed at dismantling militant infrastructure.",
+        "He appealed directly to Hamas for release of hostages, promising to mobilize international support for such a deal.",
+        "Statements came amid international pressure for ceasefire and rising concerns over civilian casualties."
+      ],
+      "sources": [
+        { "label": "Associated Press", "url": "https://apnews.com/article/israel-palestinians-hamas-war-hostages-gaza-08-10-2025-e25dba4aa05fc69cda8949391ca7e5c9" }
+      ],
+      "status": "not_fake",
+      "reporter": "AP News",
+      "createdAt": "2025-08-10T00:00:00Z",
+      "imageUrl": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K2VCVP5KYJJ7BB3DMDJDBDTZCE.jpg",
+      "comments": [
+        { "id": "100005-c1", "author": "Bob", "text": "Sensitive topic—keep sources clear.", "createdAt": "2025-08-10T00:20:00Z", "imageUrl": "", "likes": 0 }
+      ]
+    },
+    {
+      "id": 100006,
+      "title": "Global air traffic surges as tourism rebounds post-pandemic",
+      "summary": "Air travel demand returns strongly worldwide, with airlines expanding routes and schedules.",
+      "content": [
+        "Global airlines reported a significant increase in passenger flights, particularly on transcontinental and leisure routes.",
+        "Sector experts attribute the surge to vaccination campaigns and pent-up tourism demand.",
+        "Airports are struggling with capacity issues, prompting calls for infrastructure investment."
+      ],
+      "sources": [
+        { "label": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2025-08-10/global-air-traffic-surges-as-tourism-rebounds" }
+      ],
+      "status": "not_fake",
+      "reporter": "Bloomberg",
+      "createdAt": "2025-08-10T10:30:00Z",
+      "imageUrl": "https://ik.imgkit.net/3vlqs5axxjf/TW-Asia/ik-seo/uploadedImages/Industry/Travel_Trends/AdobeStock_251004109/Air-traffic-rebounds-globally-led-by-strong-recove.jpeg?tr=w-780%2Ch-440%2Cfo-auto",
+      "comments": [
+        { "id": "100006-c1", "author": "Alice", "text": "Airports feel crowded again.", "createdAt": "2025-08-10T10:45:00Z", "imageUrl": "", "likes": 2 }
+      ]
+    },
+    {
+      "id": 100007,
+      "title": "EU agrees to phase out single-use plastics by 2027",
+      "summary": "European Union leaders finalize legislation to ban single-use plastic items to address environmental pollution.",
+      "content": [
+        "The European Parliament voted to ban items like straws, cutlery, and Styrofoam packaging starting in 2027.",
+        "The law aims to reduce marine pollution and encourage biodegradable alternatives across member states.",
+        "Industry groups plan to transition in phases, citing need for sustainable production and consumer education."
+      ],
+      "sources": [
+        { "label": "Euronews", "url": "https://www.euronews.com/green/2025/08/09/eu-agrees-phase-out-single-use-plastics-by-2027" }
+      ],
+      "status": "not_fake",
+      "reporter": "Euronews",
+      "createdAt": "2025-08-09T12:00:00Z",
+      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt7b94604c32d7613d/bltb0b0c903f5582699/669ecc4163a6c9f29fa86dfa/mountain-of-trash-plastic-containers.jpg",
+      "comments": [
+        { "id": "100007-c1", "author": "Game", "text": "Big win for oceans.", "createdAt": "2025-08-09T12:15:00Z", "imageUrl": "", "likes": 4 }
+      ]
+    },
+    {
+      "id": 100008,
+      "title": "New AI model translates between 100 languages in real-time",
+      "summary": "Researchers unveiled a groundbreaking AI language model capable of real-time text and speech translation across 100 languages.",
+      "content": [
+        "Tech labs introduced a new AI model that supports accurate, instantaneous translation between more than 100 languages.",
+        "The innovation uses a transformer architecture and neural networks optimized for low-latency performance.",
+        "Developers plan to integrate the model into mobile apps and assistive technologies globally."
+      ],
+      "sources": [
+        { "label": "MIT Technology Review", "url": "https://www.technologyreview.com/2025/08/07/new-ai-model-translates-100-languages/"},
+        { "label": "ArXiv", "url": "https://arxiv.org/abs/2025.12345" }
+      ],
+      "status": "not_fake",
+      "reporter": "MIT Tech Review",
+      "createdAt": "2025-08-07T08:45:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100008-c1", "author": "Fern", "text": "Latency numbers?", "createdAt": "2025-08-07T09:05:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    },
+    {
+      "id": 100009,
+      "title": "Major earthquake shakes northern Japan, no immediate damage reported",
+      "summary": "A 6.1-magnitude quake struck northern Japan's mountainous region, with no immediate reports of casualties or major damage.",
+      "content": [
+        "A moderate earthquake measuring 6.1 on the Richter scale hit northern Japan early Saturday morning.",
+        "Local officials reported minor tremors felt across several towns, but no significant structural damage or injuries have been confirmed.",
+        "Seismologists continue to monitor aftershocks to assess potential secondary impacts."
+      ],
+      "sources": [
+        { "label": "NHK World", "url": "https://www3.nhk.or.jp/nhkworld/en/news/2025/08/09/earthquake-northern-japan.html" }
+      ],
+      "status": "not_fake",
+      "reporter": "NHK",
+      "createdAt": "2025-08-09T03:22:00Z",
+      "imageUrl": "https://content.wfaa.com/photo/2016/01/13/635883221516750829-0113-japan-earthquake01_145033_ver1.0.jpg",
+      "comments": [
+        { "id": "100009-c1", "author": "Hana", "text": "Hope everyone is safe.", "createdAt": "2025-08-09T03:40:00Z", "imageUrl": "", "likes": 5 }
+      ]
+    },
+    {
+      "id": 100010,
+      "title": "NASA’s James Webb Space Telescope captures new images of distant nebula",
+      "summary": "The James Webb Telescope released detailed images of a far-off nebula, revealing new insights on stellar formation.",
+      "content": [
+        "NASA published stunning new visuals from the James Webb Space Telescope, focusing on a filamentary nebula in the Carina constellation.",
+        "The high-resolution images highlight complex structures of dust and gas previously unseen by Hubble.",
+        "Astronomers say this could offer clues on how stars and planetary systems evolve in early stages."
+      ],
+      "sources": [
+        { "label": "NASA", "url": "https://www.nasa.gov/ames/jwst-new-nebula-imagery-2025" },
+        { "label": "Scientific American", "url": "https://www.scientificamerican.com/article/jwst-releases-new-nebula-images/" }
+      ],
+      "status": "not_fake",
+      "reporter": "NASA",
+      "createdAt": "2025-08-06T15:00:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100010-c1", "author": "Alice", "text": "Spectacular images.", "createdAt": "2025-08-06T15:20:00Z", "imageUrl": "", "likes": 6 }
+      ]
+    },
+
+    {
+      "id": 100011,
+      "title": "Amazon forest emits more CO₂ than it absorbs, study reveals",
+      "summary": "Deforestation and rising wildfires have turned the Amazon into a net carbon emitter, according to new research.",
+      "content": [
+        "Scientists report that the Amazon rainforest now releases more CO₂ than it absorbs, due to accelerated deforestation and drought-driven fires.",
+        "Analysis shows human activity is undermining the forest’s ability to sequester carbon.",
+        "Conservationists warn this marks a troubling shift in global climate dynamics."
+      ],
+      "sources": [
+        { "label": "Nature", "url": "https://www.nature.com/articles/s41586-025-xxxxx" }
+      ],
+      "status": "fake",
+      "reporter": "Nature",
+      "createdAt": "2025-08-05T09:30:00Z",
+      "imageUrl": "https://news.cgtn.com/news/2021-05-02/Amazon-forest-emits-more-CO2-than-it-absorbs-study-ZVGWXyKtnG/img/7a37e0fb752d41ee97894235a729d17c/7a37e0fb752d41ee97894235a729d17c-1920.png",
+      "comments": [
+        { "id": "100011-c1", "author": "Dee", "text": "Headline overstates findings.", "createdAt": "2025-08-05T09:50:00Z", "imageUrl": "", "likes": 2 }
+      ]
+    },
+    {
+      "id": 100012,
+      "title": "Tech giant unveils affordable solar roof tiles nationwide",
+      "summary": "A leading renewable energy firm launches cost-effective solar roof tiles to accelerate home solar adoption.",
+      "content": [
+        "A major tech company announced nationwide rollout of durable and affordable solar tiles designed to replace traditional roofing.",
+        "The new tiles integrate photovoltaic cells seamlessly, targeting both aesthetics and efficiency.",
+        "Homeowners can now access subsidies and financing options for installation via the company’s platform."
+      ],
+      "sources": [
+        { "label": "TechCrunch", "url": "https://techcrunch.com/2025/08/04/affordable-solar-roof-tiles-launch" }
+      ],
+      "status": "fake",
+      "reporter": "TechCrunch",
+      "createdAt": "2025-08-04T11:20:00Z",
+      "imageUrl": "https://interestingengineering.com/_next/image?url=https%3A%2F%2Fimages.interestingengineering.com%2Fimg%2Fiea%2FLBGRj0K4G2%2Ftesla-solar-panelcloseup.png&w=1200&q=75",
+      "comments": [
+        { "id": "100012-c1", "author": "Game", "text": "Specs not available—marketing spin?", "createdAt": "2025-08-04T11:35:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    },
+    {
+      "id": 100013,
+      "title": "UNICEF launches initiative to boost childhood vaccination in rural Africa",
+      "summary": "A new UNICEF program aims to increase vaccination rates for children across remote African communities.",
+      "content": [
+        "UNICEF introduced a mobile clinic program that delivers vaccines directly to remote villages in several African countries.",
+        "The initiative also supports educational campaigns and logistics improvements to ensure cold-chain compliance.",
+        "Health experts call this a game-changer in combating preventable childhood diseases."
+      ],
+      "sources": [
+        { "label": "UNICEF", "url": "https://www.unicef.org/press-releases/unicef-launches-rural-africa-vaccination-initiative" }
+      ],
+      "status": "fake",
+      "reporter": "UNICEF",
+      "createdAt": "2025-08-03T07:00:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1504439468489-c8920d796a29?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100013-c1", "author": "Bob", "text": "Budget figures seem inflated.", "createdAt": "2025-08-03T07:15:00Z", "imageUrl": "", "likes": 0 }
+      ]
+    },
+    {
+      "id": 100014,
+      "title": "Breakthrough in Alzheimer's treatment shows promising trial results",
+      "summary": "A novel Alzheimer's drug slowed disease progression in early-stage patients during mid-phase trials.",
+      "content": [
+        "Researchers announced that a new drug targeting amyloid proteins showed efficacy in reducing cognitive decline in early Alzheimer's patients.",
+        "The mid-phase trial included over 200 participants and demonstrated improved memory retention over 18 months.",
+        "If advanced trials succeed, the drug could become the first to alter Alzheimer's progression."
+      ],
+      "sources": [
+        { "label": "The Lancet", "url": "https://www.thelancet.com/journals/lanres/article/pii/SXXXXXX" }
+      ],
+      "status": "fake",
+      "reporter": "The Lancet",
+      "createdAt": "2025-08-02T13:45:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1513258496099-48168024aec0?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100014-c1", "author": "Eak", "text": "Mid-phase data ≠ approval.", "createdAt": "2025-08-02T14:00:00Z", "imageUrl": "", "likes": 3 }
+      ]
+    },
+    {
+      "id": 100015,
+      "title": "Canada pledges $1 billion to help Amazon rainforest restoration",
+      "summary": "Canada commits $1 billion in funding to support reforestation and indigenous preservation projects in the Amazon.",
+      "content": [
+        "At an international climate summit, Canada pledged $1 billion to restore Amazon rainforest areas degraded by deforestation.",
+        "Funds will support indigenous-led conservation and large-scale tree planting efforts.",
+        "Climate advocates welcomed the move but noted long-term monitoring is essential for success."
+      ],
+      "sources": [
+        { "label": "CBC News", "url": "https://www.cbc.ca/news/politics/canada-amazon-pledge-1-billion-1.XXXX" }
+      ],
+      "status": "fake",
+      "reporter": "CBC",
+      "createdAt": "2025-08-01T10:00:00Z",
+      "imageUrl": "https://assets.aboutamazon.com/dims4/default/0326021/2147483647/strip/true/crop/2000x1000+0+63/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F2e%2F81%2F088b76374e519bd6f28831fa613d%2Fborneo-rainforest-shusto-1474114256.jpg",
+      "comments": [
+        { "id": "100015-c1", "author": "Hana", "text": "No official MoU cited.", "createdAt": "2025-08-01T10:20:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    },
+    {
+      "id": 100016,
+      "title": "New smartphone offers battery life over 48 hours with one charge",
+      "summary": "A tech company unveiled a smartphone that boasts over two days of battery life in routine usage.",
+      "content": [
+        "Tech firm XYZ introduced a new flagship phone promising up to 48 hours of battery life under typical usage conditions.",
+        "Innovative battery design and power management software contribute to the extended endurance.",
+        "Early reviews praised the longevity but noted the device is slightly heavier than its predecessors."
+      ],
+      "sources": [
+        { "label": "The Verge", "url": "https://www.theverge.com/2025/07/31/new-smartphone-48-hour-battery" }
+      ],
+      "status": "fake",
+      "reporter": "The Verge",
+      "createdAt": "2025-07-31T14:30:00Z",
+      "imageUrl": "https://www.gadgetmatch.com/wp-content/uploads/2023/05/230512-GadgetMatch-Xiaomi-13-Pro-Frustrated-Photographer-Review-Usage-Battery-1-1000x600.jpg",
+      "comments": [
+        { "id": "100016-c1", "author": "Cara", "text": "Lab vs real-life gap?", "createdAt": "2025-07-31T14:45:00Z", "imageUrl": "", "likes": 2 }
+      ]
+    },
+    {
+      "id": 100017,
+      "title": "Brazil to open largest solar farm in Latin America this year",
+      "summary": "Brazilian government inaugurates Latin America's largest solar plant, bolstering renewable energy capacity.",
+      "content": [
+        "The new 1 GW solar facility is expected to power over a million households and significantly lower carbon emissions.",
+        "The project was built using a public-private partnership, with operations due to start next month.",
+        "Officials see this as a key milestone in Brazil's energy transition goals."
+      ],
+      "sources": [
+        { "label": "Reuters", "url": "https://www.reuters.com/business/energy/brazil-open-largest-solar-plant-latin-america-2025-08-01/" }
+      ],
+      "status": "fake",
+      "reporter": "Reuters",
+      "createdAt": "2025-07-30T16:00:00Z",
+      "imageUrl": "https://justenergy.com/wp-content/uploads/2023/10/floating-solar-farms-on-lake-renewable-energy.jpeg",
+      "comments": [
+        { "id": "100017-c1", "author": "Alice", "text": "Capacity figure unverified.", "createdAt": "2025-07-30T16:20:00Z", "imageUrl": "", "likes": 0 }
+      ]
+    },
+    {
+      "id": 100018,
+      "title": "Global water scarcity hits alarming levels, new UN report warns",
+      "summary": "A UN report finds that water scarcity has surpassed critical thresholds in many regions, urging urgent intervention.",
+      "content": [
+        "The United Nations published a groundbreaking report indicating that more than 2 billion people face severe water shortages.",
+        "Experts emphasize that climate change, population growth, and mismanagement exacerbate the crisis.",
+        "The report calls for sustainable water policies, infrastructure upgrading, and international cooperation."
+      ],
+      "sources": [
+        { "label": "United Nations", "url": "https://www.un.org/water-for-life/report/2025" }
+      ],
+      "status": "fake",
+      "reporter": "United Nations",
+      "createdAt": "2025-07-29T09:00:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100018-c1", "author": "Eak", "text": "Need region-by-region data.", "createdAt": "2025-07-29T09:15:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    },
+    {
+      "id": 100019,
+      "title": "Sci-fi blockbuster breaks streaming records in first weekend",
+      "summary": "The latest sci-fi blockbuster has become the most-streamed film of the weekend, breaking platform records.",
+      "content": [
+        "The new sci-fi movie amassed over 100 million views across streaming platforms within its first 72 hours.",
+        "Critics praise its visual effects and high-stakes plot, though some noted pacing issues.",
+        "Streaming analysts expect it to break theatrical revenue records if later released in cinemas."
+      ],
+      "sources": [
+        { "label": "Variety", "url": "https://variety.com/2025/film/news/sci-fi-blockbuster-breaking-streaming-records-1234567890/" }
+      ],
+      "status": "fake",
+      "reporter": "Variety",
+      "createdAt": "2025-07-28T18:30:00Z",
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/b58/953/07c735361d1ac55d083bf22df733935902-scifi-threeup.2x.rsocial.w600.jpg",
+      "comments": [
+        { "id": "100019-c1", "author": "Hana", "text": "Numbers look marketing-led.", "createdAt": "2025-07-28T18:50:00Z", "imageUrl": "", "likes": 0 }
+      ]
+    },
+    {
+      "id": 100020,
+      "title": "Breakthrough hydrogen fuel-cell car crosses 1,000-mile mark on single tank",
+      "summary": "A hydrogen fuel-cell prototype achieved a record 1,000-mile journey without refueling, highlighting viability of green transport.",
+      "content": [
+        "Researchers behind the latest fuel-cell vehicle prototype completed a 1,000-mile trip on a single hydrogen fill-up.",
+        "The demonstration showcased the potential for longer-range environmental vehicles without frequent refueling.",
+        "Industry experts said such advances could fast-track adoption of clean-energy vehicles globally."
+      ],
+      "sources": [
+        { "label": "Scientific American", "url": "https://www.scientificamerican.com/article/hydrogen-fuel-cell-car-1000-mile-prototype/" }
+      ],
+      "status": "fake",
+      "reporter": "Scientific American",
+      "createdAt": "2025-07-27T12:00:00Z",
+      "imageUrl": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/MOASULX57JHHRJT3DLRPG3R34Q.png",
+      "comments": [
+        { "id": "100020-c1", "author": "Bob", "text": "Conditions unclear—lab track?", "createdAt": "2025-07-27T12:20:00Z", "imageUrl": "", "likes": 2 }
+      ]
+    },
+
+    {
+      "id": 100021,
+      "title": "City rolls out AI traffic lights to reduce congestion downtown",
+      "summary": "Smart signals promise shorter wait times and smoother traffic flow in the central business district.",
+      "content": [
+        "The transport department deployed adaptive signals using AI predictions from live camera feeds.",
+        "Officials expect up to 18% improvement in travel time during peak commuting hours.",
+        "Public feedback channels opened for reporting anomalies or unsafe patterns."
+      ],
+      "sources": [
+        { "label": "City Transport Dept", "url": "https://example.org/city-traffic-ai" }
+      ],
+      "status": "unclear",
+      "reporter": "City Desk",
+      "createdAt": "2025-08-11T05:00:00Z",
+      "imageUrl": "https://www.highwaysindustry.com/wp-content/uploads/2024/08/Google-Traffic-Lights-using-AI.png",
+      "comments": [
+        { "id": "100021-c1", "author": "Cara", "text": "Need independent evaluation.", "createdAt": "2025-08-11T05:10:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    },
+    {
+      "id": 100022,
+      "title": "Regional hospital reports spike in dengue cases after heavy rains",
+      "summary": "Health officials urge communities to remove standing water and seek early treatment.",
+      "content": [
+        "Doctors observed a 22% rise in suspected dengue cases in suburban districts.",
+        "Emergency funds were earmarked for testing kits and community outreach.",
+        "Residents are advised to wear long sleeves and use repellents during dusk and dawn."
+      ],
+      "sources": [
+        { "label": "Health Dept", "url": "https://example.org/dengue-bulletin" }
+      ],
+      "status": "unclear",
+      "reporter": "Local Health",
+      "createdAt": "2025-08-10T09:40:00Z",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1405089166328336518/1409865466863685863/c97ae1c0ad8f65769e06f05d85683dbf.png?ex=68aeef09&is=68ad9d89&hm=d2fcb6350c2f01aad79b479a9d19add4e03e158ebecee99977d0a7a3d39c4ec1&",
+      "comments": [
+        { "id": "100022-c1", "author": "Alice", "text": "Figures provisional?", "createdAt": "2025-08-10T09:55:00Z", "imageUrl": "", "likes": 0 }
+      ]
+    },
+    {
+      "id": 100023,
+      "title": "University study links social media usage to sleep disruptions",
+      "summary": "Preliminary research suggests heavy nighttime scrolling correlates with poorer sleep quality.",
+      "content": [
+        "Survey of 1,200 students found late-night social media use tied to fragmented sleep.",
+        "Researchers plan controlled trials to test blue-light filters and app timers.",
+        "Clinicians caution that confounding lifestyle factors require careful control."
+      ],
+      "sources": [
+        { "label": "University Press", "url": "https://example.edu/social-sleep" }
+      ],
+      "status": "unclear",
+      "reporter": "Campus News",
+      "createdAt": "2025-08-09T20:15:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1516387938699-a93567ec168e?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100023-c1", "author": "Hana", "text": "Correlation ≠ causation.", "createdAt": "2025-08-09T20:25:00Z", "imageUrl": "", "likes": 3 }
+      ]
+    },
+    {
+      "id": 100024,
+      "title": "Water utility tests cloud seeding to ease drought conditions",
+      "summary": "Pilot aims to increase rainfall in mountain catchments during monsoon season.",
+      "content": [
+        "Aircraft dispersed silver iodide under specific humidity and temperature thresholds.",
+        "Initial gauges showed localized increases but statistical significance pending.",
+        "Environmental monitors assess potential side effects on air and water quality."
+      ],
+      "sources": [
+        { "label": "Utility Bulletin", "url": "https://example.org/cloud-seeding" }
+      ],
+      "status": "unclear",
+      "reporter": "Utility Watch",
+      "createdAt": "2025-08-08T11:30:00Z",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/220314124333-weather-cloud-seeding-05.jpg?c=16x9&q=h_833,w_1480,c_fill",
+      "comments": [
+        { "id": "100024-c1", "author": "Bob", "text": "Awaiting peer review.", "createdAt": "2025-08-08T11:45:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    },
+    {
+      "id": 100025,
+      "title": "Local council debates nighttime delivery curbs to cut noise",
+      "summary": "Proposal seeks to balance logistics efficiency with residents’ sleep quality.",
+      "content": [
+        "Freight firms warned restrictions could raise prices during peak shopping season.",
+        "Residents reported persistent noise and vibration on narrow streets.",
+        "The council requested impact studies and pilot quiet-zone schedules."
+      ],
+      "sources": [
+        { "label": "City Council", "url": "https://example.org/delivery-curbs" }
+      ],
+      "status": "unclear",
+      "reporter": "Metro Desk",
+      "createdAt": "2025-08-07T06:50:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1465447142348-e9952c393450?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100025-c1", "author": "Fern", "text": "Pilot first, then decide.", "createdAt": "2025-08-07T07:05:00Z", "imageUrl": "", "likes": 0 }
+      ]
+    },
+    {
+      "id": 100026,
+      "title": "Community group claims success reducing misinformation with labels",
+      "summary": "A volunteer network says adding labels on popular posts lowered reshare rates.",
+      "content": [
+        "The team applied warning labels to 500 trending posts across platforms.",
+        "They report a 26% drop in reshares versus unlabeled controls.",
+        "Platforms have not independently confirmed the effect size."
+      ],
+      "sources": [
+        { "label": "Civic Lab", "url": "https://example.org/labeling-study" }
+      ],
+      "status": "unclear",
+      "reporter": "Civic Lab",
+      "createdAt": "2025-08-06T18:25:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100026-c1", "author": "Alice", "text": "Methodology?", "createdAt": "2025-08-06T18:40:00Z", "imageUrl": "", "likes": 2 }
+      ]
+    },
+    {
+      "id": 100027,
+      "title": "Harbor authority considers expanding container terminal capacity",
+      "summary": "Feasibility study explores adding berths to handle larger vessels.",
+      "content": [
+        "Trade volumes recovered to pre-pandemic levels with strong regional exports.",
+        "Environmental review will assess dredging impacts on marine habitats.",
+        "Public consultations scheduled over the next two weeks."
+      ],
+      "sources": [
+        { "label": "Port Authority", "url": "https://example.org/port-expansion" }
+      ],
+      "status": "unclear",
+      "reporter": "Maritime News",
+      "createdAt": "2025-08-05T04:35:00Z",
+      "imageUrl": "https://etimg.etb2bimg.com/photo/93098456.cms",
+      "comments": [
+        { "id": "100027-c1", "author": "Hana", "text": "Track noise & emissions.", "createdAt": "2025-08-05T04:50:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    },
+    {
+      "id": 100028,
+      "title": "Pilot program offers free bus rides on high-pollution days",
+      "summary": "City hopes to cut car use and encourage public transport during smog alerts.",
+      "content": [
+        "Passengers can ride designated routes free when PM2.5 exceeds thresholds.",
+        "Funding comes from congestion pricing revenue.",
+        "Critics question whether it will shift peak-hour choices."
+      ],
+      "sources": [
+        { "label": "City Air Quality Office", "url": "https://example.org/clean-air-transit" }
+      ],
+      "status": "unclear",
+      "reporter": "City Desk",
+      "createdAt": "2025-08-04T14:10:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100028-c1", "author": "Eak", "text": "Measure outcomes, not intentions.", "createdAt": "2025-08-04T14:25:00Z", "imageUrl": "", "likes": 2 }
+      ]
+    },
+    {
+      "id": 100029,
+      "title": "Tech conference showcases open-source tools for disaster response",
+      "summary": "Volunteers demo mapping and messaging platforms that work offline.",
+      "content": [
+        "New builds allow syncing when connectivity returns after outages.",
+        "NGOs plan field trials during the next hurricane season.",
+        "Security audits ongoing to protect sensitive location data."
+      ],
+      "sources": [
+        { "label": "OSS Summit", "url": "https://example.org/oss-disaster-tools" }
+      ],
+      "status": "unclear",
+      "reporter": "Tech Desk",
+      "createdAt": "2025-08-03T16:00:00Z",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=60",
+      "comments": [
+        { "id": "100029-c1", "author": "Bob", "text": "Offline-first is key.", "createdAt": "2025-08-03T16:20:00Z", "imageUrl": "", "likes": 3 }
+      ]
+    },
+    {
+      "id": 100030,
+      "title": "Farmers test drought-resistant rice variety in pilot plots",
+      "summary": "Agricultural agency reports early harvests from heat-tolerant cultivars.",
+      "content": [
+        "Field trials across three provinces showed improved yields under water stress.",
+        "Plant breeders caution that scaling requires seed distribution networks.",
+        "Soil health programs paired to maintain long-term productivity."
+      ],
+      "sources": [
+        { "label": "Agri Agency", "url": "https://example.org/drought-rice" }
+      ],
+      "status": "unclear",
+      "reporter": "Agri Watch",
+      "createdAt": "2025-08-02T08:30:00Z",
+      "imageUrl": "https://borgenproject.org/wp-content/uploads/Rice-paddy-530x353.jpg",
+      "comments": [
+        { "id": "100030-c1", "author": "Cara", "text": "Need multi-season data.", "createdAt": "2025-08-02T08:45:00Z", "imageUrl": "", "likes": 1 }
+      ]
+    }
+  ],
+  "votes": {
+    "100001": { "fake": 4, "not_fake": 13 },
+    "100002": { "fake": 3, "not_fake": 10 },
+    "100003": { "fake": 1, "not_fake": 12 },
+    "100004": { "fake": 2, "not_fake": 11 },
+    "100005": { "fake": 5, "not_fake": 9 },
+    "100006": { "fake": 2, "not_fake": 8 },
+    "100007": { "fake": 1, "not_fake": 10 },
+    "100008": { "fake": 2, "not_fake": 9 },
+    "100009": { "fake": 0, "not_fake": 8 },
+    "100010": { "fake": 1, "not_fake": 14 },
+
+    "100011": { "fake": 10, "not_fake": 3 },
+    "100012": { "fake": 8, "not_fake": 2 },
+    "100013": { "fake": 7, "not_fake": 2 },
+    "100014": { "fake": 11, "not_fake": 4 },
+    "100015": { "fake": 6, "not_fake": 2 },
+    "100016": { "fake": 7, "not_fake": 3 },
+    "100017": { "fake": 9, "not_fake": 3 },
+    "100018": { "fake": 6, "not_fake": 2 },
+    "100019": { "fake": 5, "not_fake": 1 },
+    "100020": { "fake": 8, "not_fake": 2 },
+
+    "100021": { "fake": 4, "not_fake": 4 },
+    "100022": { "fake": 3, "not_fake": 3 },
+    "100023": { "fake": 5, "not_fake": 5 },
+    "100024": { "fake": 4, "not_fake": 5 },
+    "100025": { "fake": 3, "not_fake": 4 },
+    "100026": { "fake": 4, "not_fake": 4 },
+    "100027": { "fake": 2, "not_fake": 2 },
+    "100028": { "fake": 4, "not_fake": 3 },
+    "100029": { "fake": 3, "not_fake": 3 },
+    "100030": { "fake": 4, "not_fake": 4 }
+  }
+}
